@@ -1,0 +1,10 @@
+src/
+    pages/
+        Login.jsx
+        Dashboard.jsx
+        Clients.jsx
+    components/
+        ClientForm.jsx
+        ClientList.jsx
+    services/
+        api.js

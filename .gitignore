@@ -1,0 +1,32 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Django
+db.sqlite3
+media/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Expo / React Native
+.expo/
+.web-build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.idea/
